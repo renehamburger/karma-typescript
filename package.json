@@ -64,7 +64,7 @@
     "async": "^2.1.4",
     "browser-resolve": "^1.11.0",
     "browserify-zlib": "^0.2.0",
-    "buffer": "^5.0.6",
+    "buffer": "4.9.1",
     "combine-source-map": "^0.8.0",
     "console-browserify": "^1.1.0",
     "constants-browserify": "^1.0.0",
